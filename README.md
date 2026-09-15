@@ -24,7 +24,7 @@ A interface conta com um campo de input estilizado, suporte a mensagens dinâmic
 * **Projeto:** Peter IA Web
 
 ## Imagem do Projeto:
-<img src="img/imagem do projeto.png" alt="imagem do projeto">
+<img src="img/imagem do projet.png" alt="imagem do projeto">
 
 ---
 💡 *Este projeto faz parte do meu portfólio de desenvolvimento web.*

@@ -21,9 +21,6 @@ O **Peter IA** é uma interface web moderna e minimalista para interação com i
 
 A interface conta com um campo de input estilizado, suporte a mensagens dinâmicas e ícones intuitivos para uma interação completa.
 
-## ✒️ Autoria
-
-* **Desenvolvedora:** Ingrid Farias
 * **Projeto:** Peter IA Web
 
 ## Imagem do Projeto:
